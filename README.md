@@ -18,7 +18,7 @@
 
 ③ once installation is complete, run `npm run start` to get your local copy running in the browser.
 
-demo link : https://my-portfolio-cyapgxoxx-ksrkmdl0226s-projects.vercel.app/
+demo link : https://my-portfolio-iahvmzo2v-ksrkmdl0226s-projects.vercel.app/resume
 
 
 ## Template instructions
