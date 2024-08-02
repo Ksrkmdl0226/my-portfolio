@@ -53,12 +53,11 @@ function Resume() {
               <ul>
                 <li>
                   <h4 className="ff-jose my-1 text-red">
-                    <a
-                      href="https://drive.google.com/file/d/1Pe9Wuxo6IW2LswqacL0JuXB8iCPH1YQz/view?usp=share_link"
+                    <p
                       className="ff-jose my-1 text-red text-decoration-none"
                     >
                       Associate Web Developer
-                    </a>
+                    </p>
                   </h4>
                   <h6 className="blue-label px-2 py-1">May 2023 - Dec 2023</h6>
                   <p className="m-0">Proiuvo Pvt Ltd</p>
@@ -81,12 +80,11 @@ function Resume() {
                 </li>
                 <li>
                   <h4 className="ff-jose my-1 text-red">
-                    <a
-                      href="https://drive.google.com/file/d/1PsCN2Xc6UVfP_SiUvytvTRsIkwoiILSB/view?usp=share_link"
+                    <p
                       className="ff-jose my-1 text-red text-decoration-none"
                     >
                       Web Application Developer Internship
-                    </a>
+                    </p>
                   </h4>
                   <h6 className="blue-label px-2 py-1">Jan 2022 - June 2022</h6>
                   <p className="m-0">InfyNow Software Solutions LLP</p>
